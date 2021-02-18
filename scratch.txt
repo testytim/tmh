@@ -1,0 +1,28 @@
+    <!--/.Navbar-->
+<!--    <nav class="navbar navbar-inverse navbar-expand-sm sticky-top">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">That's My Heart</a>
+            <!-- Toggler/collapsibe Button -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <!-- Navbar links -->
+            <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                <ul class="navbar-nav">
+                    <li class="active"><a href="#">Home</a></li>
+    <!--                <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1
+                            <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">Page 1-1</a></li>
+                            <li><a href="#">Page 1-2</a></li>
+                            <li><a href="#">Page 1-3</a></li>
+                        </ul>
+                    </li>
+    -->      <li><a href="#">Meet Danette</a></li>
+                    <li><a href="#">Needs</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+-->
